@@ -2,8 +2,8 @@
 
 I'm:
 
-- 🌱 Currently learning Data Science stuff
-- 👯 Looking to collaborate on Data Science projects
+- Fullstack developer
+- Currently learning Data Science stuff
 
 ## SOCIAL
 
