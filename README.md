@@ -3,7 +3,7 @@
 I'm:
 
 - Fullstack developer
-- Some knowledge Data Science stuff
+- Some knowledge in Data Science stuff
 
 ## SOCIAL
 
