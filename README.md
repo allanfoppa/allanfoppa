@@ -26,18 +26,19 @@ I'm:
 
 ![Fast API](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express)
+![NestJS](https://img.shields.io/badge/-NestJs-black?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Styled Components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white)
 
-## TECHNOLOGIES AND TOOLS
+## TECHNOLOGIES
 
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## OS
