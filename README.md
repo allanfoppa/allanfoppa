@@ -4,7 +4,6 @@ I'm:
 
 - Fullstack developer
 - Some knowledge in Data Science
-- Currently enrolled in a Java programming course.
 
 ## SOCIAL
 
