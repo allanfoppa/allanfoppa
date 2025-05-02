@@ -45,3 +45,55 @@ I'm:
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+
+## Annual Study Plan
+
+This is my annual study plan, divided into three "thirds" to help organize my learning goals throughout the year.  
+
+**Note**: This is a flexible plan, and I will adjust it as needed based on my progress and changing interests.
+
+### First Third: January, February, March, April
+
+**Focus:** Microfrontends with React
+
+**Key Topics/Languages:**  
+	React: Component-based architecture, state management (Context, Redux), hooks  
+	RSBuild: Building and deploying microfrontends  
+	PrimeReact: UI component library  
+	PrimeFlex: CSS utility library  
+	NestJS: Backend framework for APIs  
+
+**Goals:**  
+	Implement a basic microfrontend application using React and RSBuild.  
+	Create a reusable microfrontend template for business products.  
+	Set up communication between microfrontends.  
+	Improve the use PrimeReact and PrimeFlex for consistent UI design.  
+	Develop a NestJS backend to support the microfrontend architecture.  
+
+### Second Third: May, June, July, August
+
+**Focus:** Refactoring and Design Principles
+
+**Key Topics/Languages:**  
+	Refactoring techniques (e.g., Martin Fowler's refactorings)  
+	Design patterns (e.g., Gang of Four)  
+	SOLID principles  
+
+**Goals:**  
+	Apply refactoring techniques to improve existing codebases.  
+	Learn and implement common design patterns.  
+	Understand and apply SOLID principles for maintainable and scalable code.  
+
+### Third Third: September, October, November, December
+
+**Focus:** Machine Learning
+
+**Key Topics/Languages:**  
+	Python for Machine Learning  
+	Machine Learning Fundamentals (Supervised, Unsupervised Learning)  
+	Popular Machine Learning Libraries (scikit-learn, TensorFlow, PyTorch)  
+	Data Preprocessing and Feature Engineering  
+	Model Evaluation and Selection  
+
+**Goals:**  
+	Implement and apply various machine learning algorithms.
