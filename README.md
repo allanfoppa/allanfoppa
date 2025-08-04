@@ -86,14 +86,14 @@ This is my annual study plan, divided into three "thirds" to help organize my le
 
 ### Third Third: September, October, November, December
 
-**Focus:** Machine Learning
+**Focus:** Mobile with Flutter
 
 **Key Topics/Languages:**  
-	Python for Machine Learning  
-	Machine Learning Fundamentals (Supervised, Unsupervised Learning)  
-	Popular Machine Learning Libraries (scikit-learn, TensorFlow, PyTorch)  
-	Data Preprocessing and Feature Engineering  
-	Model Evaluation and Selection  
+	Dart: The programming language for Flutter
+	Flutter SDK: Widgets, layout, state management
+	State Management: Provider, Bloc, or Riverpod
+	API Integration: Handling network requests (e.g., using http package)
+	Mobile UI/UX: Adaptive design for different screen sizes
 
 **Goals:**  
-	Implement and apply various machine learning algorithms.
+	Build a complete, multi-screen mobile application using Flutter.
