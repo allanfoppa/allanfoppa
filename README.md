@@ -1,4 +1,4 @@
-  ```yaml
+```yaml
 profile:
   greeting: "Hi there 👋"
   role: "Fullstack developer"
@@ -65,10 +65,10 @@ data_science:
   - name: "Matplotlib"
   - name: "Jupyter"
   - name: "Apache Spark"
-
-learning:
-  annual_study_plan:
-    description: "This is my [annual study plan](https://github.com/allanfoppa/the-learning-journey), divided into three \"thirds\" to help organize my learning goals throughout the year."
-    note: "This is a flexible plan, and I will adjust it as needed based on my progress and changing interests."
-
 ```
+
+## 📚 Learning
+
+This is my [annual study plan](https://github.com/allanfoppa/the-learning-journey), divided into three "thirds" to help organize my learning goals throughout the year.
+
+> **Note:** This is a flexible plan, and I will adjust it as needed based on my progress and changing interests.
