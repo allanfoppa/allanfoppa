@@ -71,4 +71,5 @@ data_science:
 
 This is my [annual study plan](https://github.com/allanfoppa/the-learning-journey), divided into three "thirds" to help organize my learning goals throughout the year.
 
-> **Note:** This is a flexible plan, and I will adjust it as needed based on my progress and changing interests.
+> [!NOTE]
+> This is a flexible plan, and I will adjust it as needed based on my progress and changing interests.
