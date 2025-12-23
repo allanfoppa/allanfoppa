@@ -4,7 +4,6 @@ profile:
   name: "Allan Foppa"
   role: "Fullstack Developer"
   location: "Sapucaia do Sul, Brazil"
-  current_focus: "https://github.com/allanfoppa/continuous-learning/tree/main/2026"
   languages_spoken:
     - "English"
     - "Portuguese"
