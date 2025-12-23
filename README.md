@@ -82,7 +82,7 @@ data_science:
 ```
 
 ## 📚 Learning
-This is my [annual study plan](https://github.com/allanfoppa/the-learning-journey), organized into flexible learning phases to help structure my learning goals throughout the year.
+This is my [annual study plan](https://allanfoppa.github.io/continuous-learning/), organized into flexible learning phases to help structure my learning goals throughout the year.
 
 > [!NOTE]
 > This is a flexible plan, and I will adjust it as needed based on my progress and changing interests.
