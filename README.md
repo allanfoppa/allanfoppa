@@ -1,7 +1,13 @@
 ```yaml
 profile:
   greeting: "Hi there 👋"
-  role: "Fullstack developer"
+  name: "Allan Foppa"
+  role: "Fullstack Developer"
+  location: "Sapucaia do Sul, Brazil"
+  current_focus: "https://github.com/allanfoppa/continuous-learning/tree/main/2026"
+  languages_spoken:
+    - "English"
+    - "Portuguese"
 
 social:
   - name: "LinkedIn"
@@ -10,24 +16,23 @@ social:
     url: "https://www.kaggle.com/allanfoppa"
 
 languages:
-  - name: "JavaScript"
-  - name: "TypeScript"
+  - name: "JavaScript/TypeScript"
   - name: "Python"
 
 frameworks:
   backend:
     - name: "NestJS"
-    - name: "Express.js"
     - name: "FastAPI"
 
   frontend:
     - name: "React"
     - name: "Angular"
 
-mobile:
-  - name: "Flutter"
+  mobile:
+    - name: "Flutter"
 
 styling:
+  - name: "CSS3"
   - name: "Styled Components"
   - name: "Tailwind CSS"
   - name: "Material-UI"
@@ -41,19 +46,28 @@ databases:
   - name: "Redis"
 
 technologies:
-  - name: "HTML5"
-  - name: "CSS3"
   - name: "Docker"
   - name: "REST APIs"
   - name: "WebSockets"
   - name: "Git"
+
+ci_cd:
   - name: "GitHub Actions"
   - name: "Jenkins"
+
+cloud:
   - name: "AWS"
   - name: "Azure"
+
+tools:
   - name: "Figma"
   - name: "Postman"
   - name: "Visual Studio Code"
+
+markup_languages:
+  - name: "HTML5"
+  - name: "Markdown"
+  - name: "Yaml"
 
 operating_systems:
   - name: "Linux"
