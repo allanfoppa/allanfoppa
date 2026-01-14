@@ -5,8 +5,8 @@ profile:
   role: "Fullstack Developer"
   location: "Sapucaia do Sul, Brazil"
   languages_spoken:
+    - "Brazilian Portuguese"
     - "English"
-    - "Portuguese"
 
 social:
   - name: "LinkedIn"
@@ -15,12 +15,18 @@ social:
     url: "https://www.kaggle.com/allanfoppa"
 
 languages:
-  - name: "JavaScript/TypeScript"
-  - name: "Python"
+  main:
+    - name: "JavaScript/TypeScript"
+  also_know:
+    - name: "Python"
+  familiar_with:
+    - name: "Java"
+    - name: "Dart"
 
 frameworks:
   backend:
     - name: "NestJS"
+    - name: "Spring Boot"
     - name: "FastAPI"
 
   frontend:
@@ -42,6 +48,8 @@ styling:
 databases:
   - name: "PostgreSQL"
   - name: "MySQL"
+
+caching_systems:
   - name: "Redis"
 
 technologies:
@@ -55,7 +63,6 @@ ci_cd:
   - name: "Jenkins"
 
 cloud:
-  - name: "AWS"
   - name: "Azure"
 
 tools:
@@ -66,7 +73,10 @@ tools:
 markup_languages:
   - name: "HTML5"
   - name: "Markdown"
-  - name: "Yaml"
+
+data_formats:
+  - name: "YAML"
+  - name: "JSON"
 
 operating_systems:
   - name: "Linux"
