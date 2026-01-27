@@ -17,37 +17,43 @@ social:
 languages:
   main:
     - name: "JavaScript/TypeScript"
-  also_know:
-    - name: "Python"
   familiar_with:
     - name: "Java"
+    - name: "Python"
     - name: "Dart"
 
 frameworks:
   backend:
-    - name: "NestJS"
-    - name: "Spring Boot"
-    - name: "FastAPI"
+    main:
+      - name: "NestJS"
+    familiar_with:
+      - name: "Spring Boot"
+      - name: "FastAPI"
 
   frontend:
-    - name: "React"
-    - name: "Angular"
+    main:
+      - name: "React"
+    also_know:
+      - name: "Angular"
 
   mobile:
-    - name: "Flutter"
+    familiar_with:
+      - name: "Flutter"
 
 styling:
   - name: "CSS3"
-  - name: "Styled Components"
   - name: "Tailwind CSS"
+  - name: "Styled Components"
   - name: "Material-UI"
   - name: "Chakra UI"
   - name: "Bootstrap"
   - name: "Sass/SCSS"
 
 databases:
-  - name: "PostgreSQL"
-  - name: "MySQL"
+  main:
+    - name: "PostgreSQL"
+  also_know:
+    - name: "MySQL"
 
 caching_systems:
   - name: "Redis"
